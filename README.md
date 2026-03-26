@@ -1,2 +1,2 @@
-# bookledger-privacy
-Privacy policy for BookLedger, a mobile application.
+# BookLedger Privacy Policy
+This repository hosts the privacy policy for the BookLedger app.
